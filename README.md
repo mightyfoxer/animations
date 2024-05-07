@@ -4,11 +4,11 @@ The source comes from codepen.
 
 ## Screenshots
 <video width="640" height="360" controls>
-  <source src="./shows/fireshadow.mp4" type="video/mp4">
+  <source src="./thumbnails/fireshadow.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 <video width="640" height="360" controls>
-  <source src="./shows/drawanimation.mp4" type="video/mp4">
+  <source src="./thumbnails/drawanimation.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
