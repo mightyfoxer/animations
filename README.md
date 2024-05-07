@@ -3,8 +3,14 @@
 The source comes from codepen.
 
 ## Screenshots
-![Screenshot For fireshadow](./shows/fireshadow.mp4)
-![Screenshot For drawing](./shows/drawanimation.mp4)
+<video width="640" height="360" controls>
+  <source src="./shows/fireshadow.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<video width="640" height="360" controls>
+  <source src="./shows/drawanimation.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Contributing
 Feel free to contribute by following these steps...
