@@ -11,6 +11,7 @@ The source comes from codepen.
   <source src="./thumbnails/drawanimation.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+You can check the videos in thumbnails. 
 
 ## Contributing
 Feel free to contribute by following these steps...
